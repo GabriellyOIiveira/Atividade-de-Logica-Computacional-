@@ -3,9 +3,9 @@ programa {
     inteiro numero = 0
   
   enquanto(numero>=0){
-    escreva("Digite um número (negativo para sair): ")
+    escreva("Digite um nÃºmero (negativo para sair): ")
     leia(numero)
   }
-  escreva("Fim do código!!")
+  escreva("Fim do cÃ³digo!!")
   }
 }
